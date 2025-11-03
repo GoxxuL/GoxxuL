@@ -2,9 +2,6 @@
 <h3 align="center">A passionate developer</h3>
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rogkichu" alt="rogkichu" /></a> </p>
-
-
 - 🌱 I’m currently learning **web development**
 
 - 💬 Ask me about **web development**
