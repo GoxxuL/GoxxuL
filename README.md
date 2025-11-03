@@ -12,7 +12,7 @@
 <p align="left">
 <a href="https://instagram.com/g.o_kul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="g.o_kul" height="30" width="40" /></a>
 </a>
-  <a href="https://www.linkedin.com/in/gokul-rajeev" target="blank">
+  <a href="https://www.linkedin.com/in/gokul-rajeev-pd" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gokul-rajeev-pd" height="30" width="40" /></a>
 </p>
 
